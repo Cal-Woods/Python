@@ -1,5 +1,6 @@
 list = [1, 6, 3, 9, 4, 7,2,9,5]
 
+#This does not fully work, my own experiment with the bubble sort algorithm.
 def bubbleSort(mylist):
 	n = len(mylist)
 	swapped = True
